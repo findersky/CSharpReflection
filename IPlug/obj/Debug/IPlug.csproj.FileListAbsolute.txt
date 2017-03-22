@@ -1,0 +1,13 @@
+F:\CodeTest\IPlug\IPlug\bin\Debug\IPlug.dll
+F:\CodeTest\IPlug\IPlug\bin\Debug\IPlug.pdb
+F:\CodeTest\IPlug\IPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\IPlug\IPlug\obj\Debug\IPlug.dll
+F:\CodeTest\IPlug\IPlug\obj\Debug\IPlug.pdb
+C:\Users\finder\Desktop\IPlug\IPlug\bin\Debug\IPlug.dll
+C:\Users\finder\Desktop\IPlug\IPlug\bin\Debug\IPlug.pdb
+C:\Users\finder\Desktop\IPlug\IPlug\obj\Debug\IPlug.dll
+C:\Users\finder\Desktop\IPlug\IPlug\obj\Debug\IPlug.pdb
+H:\gitWorkFloder\CSharpReflection\IPlug\bin\Debug\IPlug.dll
+H:\gitWorkFloder\CSharpReflection\IPlug\bin\Debug\IPlug.pdb
+H:\gitWorkFloder\CSharpReflection\IPlug\obj\Debug\IPlug.dll
+H:\gitWorkFloder\CSharpReflection\IPlug\obj\Debug\IPlug.pdb
