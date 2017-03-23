@@ -5,6 +5,7 @@ using System.Text;
 
 namespace IPlug
 {
+    [AttributeUsage(AttributeTargets.Class)]
     public class PlugsNameAttribute : Attribute
     {
         private string name;
